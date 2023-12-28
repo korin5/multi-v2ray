@@ -15,7 +15,7 @@ remove=0
 
 chinese=0
 
-base_source_path="https://multi.netlify.app"
+base_source_path="https://github.com/korin5/multi-v2ray/raw/master"
 
 util_path="/etc/v2ray_util/util.cfg"
 
